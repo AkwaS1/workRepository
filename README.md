@@ -1,5 +1,7 @@
 # Update Log
+### Added & Updated
 - [x] Created new branch "updateLog"
-- [x] An index.html file has been created that automatically pulls the update log and displays it on the website
+- [x] Added an `index.html` file to automatically fetch and display the update log on the site
 
-    └── Bug with loadning fixed 
+### Bug Fixes
+- Fixed an issue with loading
