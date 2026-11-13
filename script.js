@@ -1,5 +1,5 @@
 async function fetchUpdateLog() {
-    const rawUrl = 'https://raw.githubusercontent.com/AkwaS1/workRepository/updateLog/README.md';
+    const rawUrl = 'https://raw.githubusercontent.com/AkwaS1/workRepository/updateLog/README.md?t=' + new Date().getTime();
 
     try {
         const response = await fetch(rawUrl);
