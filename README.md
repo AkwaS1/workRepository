@@ -1,2 +1,3 @@
 # workRepository
-## This repository about how to work in it
+## This repository about updates
+[x] created new branch "updateLog"
