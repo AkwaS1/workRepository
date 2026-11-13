@@ -1,2 +1,2 @@
 # workRepository
-## This repository about how to work in it
+## This repository explains how to work with this project
