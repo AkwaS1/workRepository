@@ -1,3 +1,2 @@
-# workRepository
-## This repository about updates
+# Update Log
 - [x] Created new branch "updateLog"
